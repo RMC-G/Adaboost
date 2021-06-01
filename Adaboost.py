@@ -1,19 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
-
-
-
-
-#########################################################################
-#
-# Authors : 	  Eoin Garrigan + Raymond Mc Creesh 
-# Student I.Ds:   17187478 + 15211428
-#
-# Project 4:     AdaBoost Classifier using weak linear classifiers
-#
-# File Name:    AdaBoost_Classifier.py	  
 #
 # Description:  An orientation line is created using the weighted means of the
 #               positive and negative points. Each point is then projected onto 
